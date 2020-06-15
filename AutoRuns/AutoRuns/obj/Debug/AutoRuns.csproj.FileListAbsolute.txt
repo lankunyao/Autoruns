@@ -1,0 +1,13 @@
+C:\Users\lankunyao\source\repos\AutoRuns\AutoRuns\bin\Debug\AutoRuns.exe.config
+C:\Users\lankunyao\source\repos\AutoRuns\AutoRuns\bin\Debug\AutoRuns.exe
+C:\Users\lankunyao\source\repos\AutoRuns\AutoRuns\bin\Debug\AutoRuns.pdb
+C:\Users\lankunyao\source\repos\AutoRuns\AutoRuns\bin\Debug\zh-Hans\AutoRuns.resources.dll
+C:\Users\lankunyao\source\repos\AutoRuns\AutoRuns\obj\Debug\AutoRuns.csprojAssemblyReference.cache
+C:\Users\lankunyao\source\repos\AutoRuns\AutoRuns\obj\Debug\AutoRuns.Autoruns.resources
+C:\Users\lankunyao\source\repos\AutoRuns\AutoRuns\obj\Debug\AutoRuns.Properties.Resources.resources
+C:\Users\lankunyao\source\repos\AutoRuns\AutoRuns\obj\Debug\AutoRuns.Autoruns.zh-Hans.resources
+C:\Users\lankunyao\source\repos\AutoRuns\AutoRuns\obj\Debug\AutoRuns.csproj.GenerateResource.cache
+C:\Users\lankunyao\source\repos\AutoRuns\AutoRuns\obj\Debug\AutoRuns.csproj.CoreCompileInputs.cache
+C:\Users\lankunyao\source\repos\AutoRuns\AutoRuns\obj\Debug\zh-Hans\AutoRuns.resources.dll
+C:\Users\lankunyao\source\repos\AutoRuns\AutoRuns\obj\Debug\AutoRuns.exe
+C:\Users\lankunyao\source\repos\AutoRuns\AutoRuns\obj\Debug\AutoRuns.pdb
